@@ -1,3 +1,6 @@
+# IMPORTANT
+This code is very old. I was dipping my feet into Python at the time. This will be revised soon.
+
 # PyDRAC
 - Simple Python scripts to query a Dell Poweredge iDRAC.  
   Written in Python 2.7.
